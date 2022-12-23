@@ -1,0 +1,27 @@
+{
+  "name": "crud_api-nodejs",
+  "version": "1.0.0",
+  "description": "CRUD API nodejs app",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0 <19.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-by/rss_nodejs_crud_api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments",
+    "rsschool"
+  ],
+  "author": "code-by",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-by/rss_nodejs_crud_api.git/issues"
+  },
+  "homepage": "https://github.com/code-by/rss_nodejs_crud_api#readme"
+}
